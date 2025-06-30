@@ -8,4 +8,5 @@
 - Database: MongoDB, MySQL
 
 ## 📫 Connect with Me
-- LinkedIn: [YourLinkedIn](www.linkedin.com/in/charith-rekham-83b295301)
+- LinkedIn: [Click-here](www.linkedin.com/in/charith-rekham-83b295301)
+- Email:[Mail](charithrekham7@gmail.com)
